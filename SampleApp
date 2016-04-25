@@ -8,6 +8,9 @@
 
   .blue-text {
     color: blue;
+  
+    .black-text {
+    color: black;
   }
   h2 {
     font-family: Lobster, Monospace;
@@ -21,9 +24,9 @@
     font-family: Monospace;
   }
 
-  .thick-green-border {
-    border-color: green;
-    border-width: 10px;
+  .thick-blue-border {
+    border-color: blue;
+    border-width: 5px;
     border-style: solid;
     border-radius: 50%;
   }
@@ -42,7 +45,9 @@
 
 <p>Click here to learn more about <a href="http://emccode.com/">EMC{code}</a>.</p>
 
-<a href="#"><img width: 100px class="smaller-image" alt="A cute orange cat lying on its back" src="http://emccode.com/images/badge.png"></a>
+<a href="#"><img class="smaller-image" alt="EMC code logo" src="http://emccode.com/images/badge.png"></a>
+
+<p> <img class="smaller-image" alt="EMC code logo" src="http://emccode.com/images/badge.png"></a> </p>
 
 <div class="gray-background">
   <p>What DevOps Is:</p>

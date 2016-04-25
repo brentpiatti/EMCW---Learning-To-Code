@@ -42,7 +42,7 @@
 
 <p>Click here to learn more about <a href="http://emccode.com/">EMC{code}</a>.</p>
 
-<a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back" src="https://bit.ly/fcc-relaxing-cat"></a>
+<a href="#"><img class="smaller-image" alt="A cute orange cat lying on its back" src="http://emccode.com/images/badge.png"></a>
 
 <div class="gray-background">
   <p>What DevOps Is:</p>

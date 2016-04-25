@@ -1,0 +1,2 @@
+touch Staticfile
+cf push my-site -m 64M

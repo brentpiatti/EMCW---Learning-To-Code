@@ -11,6 +11,9 @@
   }
   h2 {
     font-family: Lobster, Monospace;
+    
+    h3 {
+    font-family: Monospace;
   }
 
   p {
@@ -35,32 +38,34 @@
 
 <h2 class="blue-text">EMC World</h2>
 
-<p>Click here to learn more about <a href="#">EMC{code}</a>.</p>
+<h3 class="blue-text"> Learning to Code in Your Free Time</h3>
+
+<p>Click here to learn more about <a href="http://emccode.com/">EMC{code}</a>.</p>
 
 <a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back" src="https://bit.ly/fcc-relaxing-cat"></a>
 
 <div class="gray-background">
-  <p>Things cats love:</p>
+  <p>What DevOps Is:</p>
   <ul>
-    <li>cat nip</li>
-    <li>laser pointers</li>
-    <li>lasagna</li>
+    <li>Culture & Operational Model</li>
+    <li>Focuses on Fast Feedback Cycles</li>
+    <li>Sustainability</li>
   </ul>
-  <p>Top 3 things cats hate:</p>
+  <p>What DevOps Is Not:</p>
   <ol>
-    <li>flea treatment</li>
-    <li>thunder</li>
-    <li>other cats</li>
+    <li>A Group</li>
+    <li>A Person</li>
+    <li>A Set of Tools</li>
+    <li>Puppet</li>
+    <li>A Workload</li>
+  </ol>
+  
+    <p>Advantages of DevOps:</p>
+  <ol>
+    <li>200x Faster Time To Market</li>
+    <li>2x Goal Achievement Rate</li>
+    <li>60x Fewer Failures</li>
   </ol>
 </div>
 
-<form id="cat-photo-form" action="/submit-cat-photo">  
-  <label><input type="radio" name="indoor-outdoor" checked> Indoor</label>
-  <label><input type="radio" name="indoor-outdoor"> Outdoor</label>
-  <label><input type="checkbox" name="personality" checked> Loving</label>
-  <label><input type="checkbox" name="personality"> Lazy</label>
-  <label><input type="checkbox" name="personality"> Energetic</label>
-  <input type="text" placeholder="cat photo URL" required>
-  <button type="submit">Submit</button>
-</form>
 </html>

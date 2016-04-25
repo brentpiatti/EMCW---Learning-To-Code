@@ -5,6 +5,10 @@
   .red-text {
     color: red;
   }
+  
+  u {
+    text-decoration: underline;
+}
 
   .blue-text {
     color: blue;}
@@ -46,13 +50,13 @@
 <h3 class="blueribbon"> Learning to Code in Your Free Time</h3>
 
 <div class="gray-background">
-  <p>What DevOps Is:</p>
+  <p><u>What DevOps Is:</u></p>
   <ul>
     <li>Culture & Operational Model</li>
     <li>Focuses on Fast Feedback Cycles</li>
     <li>Sustainability</li>
   </ul>
-  <p>What DevOps Is Not:</p>
+  <p><u>What DevOps Is Not:</u></p>
   <ol>
     <li>A Group</li>
     <li>A Person</li>
@@ -61,7 +65,7 @@
     <li>A Workload</li>
   </ol>
   
-    <p>Advantages of DevOps:</p>
+  <p><u>Advantages of DevOps:</u></p>
   <ol>
     <li>200x Faster Time To Market</li>
     <li>2x Goal Achievement Rate</li>
@@ -72,6 +76,3 @@
 <img src=http://insideflash.emc.com/wp-content/uploads/2016/04/EMC-World-2016-Modernize.jpg height="50" width="250">
 
 <p>Click here to learn more about <a href="http://emccode.com/">EMC{code}</a>.</p>
-  
-</html>
-

@@ -2,4 +2,4 @@
 
 This is a sample app used for my EMC World Presentation
 
-[Launch EMC World HTML5 App] (http://bit.ly/1Qx56KC)
+[Launch EMC World HTML5 App] (http://htmlpreview.github.io/https://github.com/brentpiatti/EMCW---Learning-To-Code/blob/master/Index.html)

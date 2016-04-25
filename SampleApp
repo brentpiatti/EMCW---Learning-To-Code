@@ -47,7 +47,7 @@
 
 <a href="#"><img class="smaller-image" alt="EMC code logo" src="http://emccode.com/images/badge.png"></a>
 
-<p> <img class="smaller-image" alt="EMC code logo" src="http://emccode.com/images/badge.png"></a> </p>
+<img class="smaller-image" alt="EMC code logo" src="http://emccode.com/images/badge.png" height="100" width="100">
 
 <div class="gray-background">
   <p>What DevOps Is:</p>

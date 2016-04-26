@@ -1,0 +1,2 @@
+touch Staticfile
+cf push emcw-piatti -m 64M

@@ -1,2 +1,2 @@
 touch Staticfile
-cf push my-site -m 64M
+cf push emcw-piatti -m 64M
